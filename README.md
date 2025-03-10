@@ -24,3 +24,6 @@ Los IDE tienen características que automatizan y facilitan el proceso de progra
 - **Comentarios**: Es parte del código el cual no se ejectua. Y sirve para organizar el código, explicarlo y hacerlo más entendible y añadir notas. Para seleccionar que parte es comentario se añade `//` en la línea de código, y `/*`[comentario]`*/`. Incluso se puede añadir comentarios especiales como el *TODO:* para marcar "tareas" en un futuro o el *FIXME:* para marcar partes del código que faltan por arreglar.
 
 Estas son unas pocas características útiles de las que dispone IntelliJ IDEA para aumentar la productividad y facilitar el desarrollo pero existen muchísimas más, como la refactorización, la depuración, la búsqueda avanzanda...
+
+
+# Frameworks
