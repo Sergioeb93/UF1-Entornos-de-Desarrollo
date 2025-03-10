@@ -105,4 +105,16 @@ En cuanto a las licencias, Java se distribuye bajo una licencia GPL, lo que sign
 
 ---
 
-En resumen, Java sigue siendo un lenguaje de alto rendimiento y confiable, ideal para proyectos de gran escala, aunque hoy en día convive con otros lenguajes como Kotlin para Android o Python para desarrollo web.
+### Enlaces Externos a la Documentación Oficial de Java
+
+1. **Documentación oficial de Java (Oracle)**
+   - [Documentación de Java SE (Standard Edition)](https://docs.oracle.com/en/java/javase/)
+
+2. **Javadoc (Documentación técnica)**
+   - [Javadoc](https://docs.oracle.com/en/java/javase/11/docs/api/)
+
+3. **Tutoriales oficiales de Java en Oracle**
+   - [Tutoriales de Java en Oracle](https://docs.oracle.com/javase/tutorial/)
+
+4. **Documentación de Java SE 8**
+   - [Java SE 8 Documentation](https://docs.oracle.com/javase/8/docs/)
