@@ -19,8 +19,8 @@ Existen muchos IDE hoy en día, también en función del lenguaje de programaci�
 Los IDE tienen características que automatizan y facilitan el proceso de programación. A continuación mostraremos unos ejemplos de estas características en el IDE de InstelliJ IDEA:
 - **Autoformatear**: Tabula de forma automática el código para principalmente mayor entendimiento de este.
 - **Autocompletar**: Predice el código poniéndolo como sugerencia para mayor rapidez al escribir, reduciendo así también posibles errores gramaticales.
-- **Generar Código**: Genera código atuomáticamente, en vez de escribirlo manualmente. Así agiliza la escritura del código sobretodo para estructura repetitivas. Es ideal por ejemplo para crear *constructores, getters, setters, toString(), etc.*
-- ***Live Templates***: Son plantillas o partes de un código los cuales podemos escribir con una abreviatura, por ejemplo escribiendo simplemente sout ya tenemos el método `System.out.println()`.
+- **Generar Código**: Genera código automáticamente, en vez de escribirlo manualmente. Así agiliza la escritura del código sobretodo para estructura repetitivas. Es ideal por ejemplo para crear *constructores, getters, setters, toString(), etc.*
+- ***Live Templates***: Son plantillas o partes de un código los cuales podemos escribir con una abreviatura, por ejemplo escribiendo simplemente sout ya tenemos el método `System.out.println()`. Básicamente sirve para escribir código repetitivo de forma más rápida.
 - **Comentarios**: Es parte del código el cual no se ejectua. Y sirve para organizar el código, explicarlo y hacerlo más entendible y añadir notas. Para seleccionar que parte es comentario se añade `//` en la línea de código, y `/*`[comentario]`*/`. Incluso se puede añadir comentarios especiales como el *TODO:* para marcar "tareas" en un futuro o el *FIXME:* para marcar partes del código que faltan por arreglar.
 
 Estas son unas pocas características útiles de las que dispone IntelliJ IDEA para aumentar la productividad y facilitar el desarrollo pero existen muchísimas más, como la refactorización, la depuración, la búsqueda avanzanda...
