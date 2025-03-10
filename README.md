@@ -1,5 +1,8 @@
 # UF1-Entornos-de-Desarrollo
 Práctica UF1 Entornos de Desarrollo LaSalle
+
+---
+
 ## Entornos de Desarrollo Integrados (IDE)
 Es un programa con el que puedes escribir, probar y ejecutar código de forma efectiva, proporciona las herramientas necesarias para desarrollar Software.
 
@@ -25,9 +28,11 @@ Los IDE tienen características que automatizan y facilitan el proceso de progra
 
 Estas son unas pocas características útiles de las que dispone IntelliJ IDEA para aumentar la productividad y facilitar el desarrollo pero existen muchísimas más, como la refactorización, la depuración, la búsqueda avanzanda...
 
+---
 
 # Frameworks
 
+---
 
 # Historia de Java
 
