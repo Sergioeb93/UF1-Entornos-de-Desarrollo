@@ -32,6 +32,8 @@ Estas son unas pocas características útiles de las que dispone IntelliJ IDEA p
 
 ## Frameworks
 
+Un Framework es un marco que nos proporciona una forma de trabajo para agilizar el desarrollo de nuestras aplicaciones. Los frameworks nos permiten mediante una serie de librerias simplificar tareas repetitivas. Utilizar buenas prácticas y programar más seguro hay que recalcar que el uso de un framework no es obligatorio pero facilita el trabajo.
+Existen frameworks para todo tipo de programación, desde desarrollo de páginas web pasando por apps para móviles hasta para aplicaciones de escritorio.
 ---
 
 ### Historia de Java
