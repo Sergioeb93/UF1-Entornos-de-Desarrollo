@@ -32,8 +32,25 @@ Estas son unas pocas características útiles de las que dispone IntelliJ IDEA p
 
 ## Frameworks
 
-Un Framework es un marco que nos proporciona una forma de trabajo para agilizar el desarrollo de nuestras aplicaciones. Los frameworks nos permiten mediante una serie de librerias simplificar tareas repetitivas. Utilizar buenas prácticas y programar más seguro hay que recalcar que el uso de un framework no es obligatorio pero facilita el trabajo.
-Existen frameworks para todo tipo de programación, desde desarrollo de páginas web pasando por apps para móviles hasta para aplicaciones de escritorio.
+Un Framework es un conjunto de recursos que nos proporciona una forma de trabajo para agilizar el desarrollo de nuestras aplicaciones. Los frameworks nos permiten mediante una serie de librerias, herramientas y reglas, simplificar tareas repetitivas, utilizar buenas prácticas y programar más seguro.
+
+El uso de un framework no es obligatorio pero facilita el trabajo.
+Existen frameworks para todo tipo de programación, desde desarrollo de páginas web, apps para móviles hasta para aplicaciones de escritorio.
+Por ejemplo, para programar aplicaciones Android, siempre se usa un framework, entre los más populares están: PhoneGap, Flutter y Ionic...
+Cada framework utiliza un lenguaje de programación diferente.
+
+El **frontend** es la parte visible de una aplicación o página web. Es el conjunto de elementos y funcionalidades que el usuario puede ver e interactuar. Todo lo que aparece en la pantalla, desde botones hasta formularios y menús, forma parte del frontend.
+Para la creación de una aplicación móvil, en el frontend tendremos dos opciones principalmente, una aplicación nativa o híbrida. Las nativas suelen ser más rápidas y respetan la interfaz del sistema, por tanto le es más familiar al usuario. La aplicación híbrida solo tenemos que implementarla una vez, en lugar de tener que implementarla para cada sistema, además como permiten reaprovechar mucho código, son más rápidas de desarrollar y tienen un mantenimiento más sencillo.
+Para una aplicación nativa, es  desarrollados con tecnologías como Java o Kotlin (para Android) y Objective-C o Swift (para iOS).
+Para una aplicación híbrida, se desarrolla por ejemplo con JavaScript/TypeScript, HTML, CSS.
+
+
+El **backend** es la parte que se encarga de procesar la información y gestionar la lógica de la aplicación. Aquí se realizan operaciones como acceder y modificar datos en una base de datos, gestionar usuarios y controlar la seguridad. Se utilizan lenguajes y frameworks como Python, Java, Golang, Ruby o PHP para desarrollar esta parte. El backend recibe las solicitudes que hace el frontend y devuelve los datos o resultados que necesita para funcionar correctamente.
+Para el backend no existen las aplicaciones híbridas ya que no hay que adaptarse al dispositivo del cliente, por ende seremos nosotros quienes decidiremos si estará provisto por máquinas Linux, Windows u otro sistema.
+Es importante utilizar un lenguaje de programación estable concorde a nuestro proyecto ya que si cae el backend, todos los usuarios se ven afectados. Hay diversas opiniones para determinar cuál es mejor o peor, pero a priori los lenguajes con tipados dinámicos y débiles suelen ser mejores para prototipar gracias a la velocidad de desarrollo, pero el resultado es mucho más frágil. Los lenguajes estáticos y fuertes, suelen ser más lentos en cuanto a desarrollo pero dan menos problemas de mantenimiento.
+
+El frontend envía solicitudes al backend (por ejemplo, para obtener datos o guardar información) y el backend procesa esas solicitudes y responde con la información necesaria para que el frontend la muestre o utilice. El **stack** es el conjunto de tecnologías y herramientas que se utilizan para construir una aplicación completa.
+
 ---
 
 ### Historia de Java
