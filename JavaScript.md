@@ -140,6 +140,24 @@ const num = ~~3.14; // Equivalente a Math.floor
 // Desestructuración eficiente
 const {a, b} = objeto; // Extracción de propiedades
 ```
+## IDEs más Utilizados
+
+- **[Visual Studio Code](https://code.visualstudio.com/):** Uno de los editores más populares, con soporte nativo para JavaScript y una amplia gama de extensiones.  
+- **[WebStorm](https://www.jetbrains.com/webstorm/):** Un IDE potente y específico para desarrollo web con JavaScript.  
+- **[Atom](https://atom.io/):** Editor de texto altamente personalizable, desarrollado por GitHub.  
+- **[Sublime Text](https://www.sublimetext.com/):** Editor ligero y rápido, muy popular entre desarrolladores.  
+
+---
+
+## Frameworks y Bibliotecas
+
+- **[React](https://reactjs.org/):** Biblioteca para construir interfaces de usuario, desarrollada por Facebook.  
+- **[Angular](https://angular.io/):** Framework completo para desarrollo de aplicaciones web, mantenido por Google.  
+- **[Vue.js](https://vuejs.org/):** Framework progresivo para construir interfaces de usuario.  
+- **[Express](https://expressjs.com/):** Framework minimalista para Node.js, utilizado en el desarrollo backend.  
+
+
+
 # Futuro de JavaScript
 
 JavaScript continúa evolucionando rápidamente. Algunas tendencias y desarrollos futuros incluyen:
