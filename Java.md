@@ -86,7 +86,22 @@ Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**
 - **[Play Framework](https://www.playframework.com/)**  
   Framework web y de microservicios altamente escalable, con enfoque en la productividad y la construcción de aplicaciones reactivas y modernas.
 
-## :wavy_dash: 8. **WEBGRAFÍA**
+## :wavy_dash: 8. **Empresa Detrás y Licencias**
+
+El responsable de Java hoy en día es Oracle Corporation. Aunque Java comenzó con Sun Microsystems, Oracle compró la compañía en 2010, y desde entonces son los que mantienen y desarrollan el lenguaje.
+
+En cuanto a las licencias, Java se distribuye bajo una licencia GPL, lo que significa que es gratis para usar y modificar. Sin embargo, si eres una empresa que necesita soporte, hay una versión comercial de Java llamada Oracle JDK, que tiene un costo.
+
+## :wavy_dash: 9. **Características Destacables**
+
+1. **Portabilidad**: Java sigue siendo uno de los pocos lenguajes que puede ejecutarse en casi cualquier sistema operativo gracias a la JVM.
+2. **Seguridad**: Java es conocido por ser seguro, con características como el sandboxing, que ayuda a proteger las aplicaciones contra virus y hackers.
+3. **Escalabilidad**: Empresas grandes lo usan porque permite crear sistemas que pueden manejar mucho tráfico y gran cantidad de datos.
+4. **Multihilo**: Java permite trabajar con multihilos (hacer muchas cosas al mismo tiempo), lo cual es esencial en aplicaciones de alto rendimiento.
+5. **Comunidad gigante**: Al ser un lenguaje tan popular, siempre encontrarás soporte y recursos para aprender o resolver problemas.
+
+## :wavy_dash: 10. **WEBGRAFÍA**
+
 [^1]: https://www.tiobe.com/tiobe-index/     
 https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-java-programming-language     
 https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html
