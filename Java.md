@@ -43,6 +43,8 @@ Asimismo, posee un tipado estático, y fuerte.
 - El _backend_ de empresas tan populares como **Spotify**, **eBay** o **Netflix** se apoya fundamentalemnte en **Java**.
 - Los primeros 4 _bytes_ que permiten identificar un fichero `.class` válido almacenan el _magic number_ `0xCAFEBABE`.
 - En los años 90, **Microsoft** lanzó su propia implementación de **Java**, **Microsoft Visual J++**, destinada a integrarse específicamente con el _Sistema Operativo_ de la compañía. Las modificaciones introducidas, incompatibles con el estándar multiplataforma definido en los términos de licencia establecidos por _Sun Microsystems_, costarían una demanda y el posterior cese en el desarrollo de la tecnología.
+- El nombre Java no fue elegido porque suena bien, sino porque el equipo de desarrollo siempre estaba tomando café (de hecho, se pensaba llamar "Silk", pero Java encajaba mejor). Además, el logo de la taza de café se convirtió en un símbolo mundialmente reconocido.
+- Java fue originalmente pensado para dispositivos pequeños, pero su verdadero éxito vino con las aplicaciones grandes. Aunque Java tiene un montón de herramientas y frameworks para hacer aplicaciones de escritorio, se usa muchísimo más para backend, es decir, en servidores.
 
 ## :wavy_dash: 6. **IDE’s**
 
