@@ -6,13 +6,13 @@
 
 ---
 
-## Introducción
+## :wavy_dash: 1. Introducción
 
 JavaScript es uno de los lenguajes de programación más influyentes y omnipresentes en la historia de la informática. Desde su creación en 1995, ha evolucionado de ser un simple lenguaje de scripting para navegadores web a convertirse en una tecnología fundamental para el desarrollo de aplicaciones web, móviles, de servidor e incluso en entornos industriales y científicos. Este documento busca explorar en profundidad la historia, evolución, características técnicas, aplicaciones y futuro de JavaScript, ofreciendo un análisis detallado y académico.
 
 ---
 
-## Historia y Orígenes
+## :wavy_dash: 2. Historia y Orígenes
 
 ### Contexto Histórico
 
@@ -28,7 +28,7 @@ A pesar del nombre, **JavaScript** y **Java** son lenguajes completamente difere
 
 ---
 
-## La Guerra de los Navegadores
+## :wavy_dash: 3. La Guerra de los Navegadores
 
 Durante la primera guerra de navegadores (1995-2000), la competencia entre Netscape y Microsoft llevó a la fragmentación de JavaScript. Cada navegador implementaba su propia versión del lenguaje:
 
@@ -40,7 +40,7 @@ Esta fragmentación generó problemas de compatibilidad y dificultó el desarrol
 
 ---
 
-## Estándar ECMAScript
+## :wavy_dash: 4. Estándar ECMAScript
 
 ### Creación del Estándar
 
@@ -58,7 +58,7 @@ En 1997, **JavaScript** fue estandarizado por la **European Computer Manufacture
 
 ---
 
-## Campo de Aplicación
+## :wavy_dash: 5. Campo de Aplicación
 
 ### Desarrollo Frontend
 
@@ -87,7 +87,7 @@ JavaScript ha trascendido el ámbito del desarrollo web y se ha adoptado en dive
 
 ---
 
-## Características Técnicas
+## :wavy_dash: 6. Características Técnicas
 
 ### Paradigmas Soportados
 
@@ -115,20 +115,20 @@ x = true;      // boolean
 ```
 ### Ecosistema y Herramientas
 
-## npm: El Gestor de Paquetes
+## :wavy_dash: 7. npm: El Gestor de Paquetes
 npm (Node Package Manager) es el gestor de paquetes más grande del mundo, con más de 1.5 millones de paquetes disponibles. Sin embargo, ha enfrentado problemas como:
 
 * **Incidente left-pad**: Un paquete crítico fue eliminado, causando interrupciones en miles de proyectos.
 * **Caso event-stream**: Un paquete popular fue comprometido con código malicioso.
 * **Micro-dependencias**: La dependencia excesiva de paquetes pequeños ha generado debates sobre la sostenibilidad del ecosistema.
 
-## Herramientas de Desarrollo
+## :wavy_dash: 8. Herramientas de Desarrollo
 * **Babel**: Transpilador que permite usar características modernas de JavaScript en navegadores antiguos.
 * **Webpack**: Empaquetador de módulos que optimiza el rendimiento de las aplicaciones.
 * **ESLint**: Herramienta de análisis de código que ayuda a mantener un estilo de código consistente.
 * **Jest**: Framework de testing ampliamente utilizado para pruebas unitarias y de integración.
 
-## Optimización y Rendimiento
+## :wavy_dash: 9. Optimización y Rendimiento
 ### Buenas Prácticas
 ```javascript
 // Optimización de arrays
@@ -140,7 +140,7 @@ const num = ~~3.14; // Equivalente a Math.floor
 // Desestructuración eficiente
 const {a, b} = objeto; // Extracción de propiedades
 ```
-## IDEs más Utilizados
+## :wavy_dash: 10. IDEs más Utilizados
 
 - **[Visual Studio Code](https://code.visualstudio.com/):** Uno de los editores más populares, con soporte nativo para JavaScript y una amplia gama de extensiones.  
 - **[WebStorm](https://www.jetbrains.com/webstorm/):** Un IDE potente y específico para desarrollo web con JavaScript.  
@@ -149,7 +149,7 @@ const {a, b} = objeto; // Extracción de propiedades
 
 ---
 
-## Frameworks y Bibliotecas
+## :wavy_dash: 11. Frameworks y Bibliotecas
 
 - **[React](https://reactjs.org/):** Biblioteca para construir interfaces de usuario, desarrollada por Facebook.  
 - **[Angular](https://angular.io/):** Framework completo para desarrollo de aplicaciones web, mantenido por Google.  
@@ -158,7 +158,7 @@ const {a, b} = objeto; // Extracción de propiedades
 
 
 
-# Futuro de JavaScript
+## :wavy_dash: 12. Futuro de JavaScript
 
 JavaScript continúa evolucionando rápidamente. Algunas tendencias y desarrollos futuros incluyen:
 
@@ -166,11 +166,11 @@ JavaScript continúa evolucionando rápidamente. Algunas tendencias y desarrollo
 * **Deno**: Un runtime moderno creado por el mismo autor de Node.js, con soporte nativo para TypeScript y mejoras en seguridad.
 * **Machine Learning en el Navegador**: Bibliotecas como TensorFlow.js permiten ejecutar modelos de machine learning directamente en el navegador.
 
-## Conclusión
+## :wavy_dash: 13. Conclusión
 
 JavaScript ha recorrido un largo camino desde sus humildes comienzos en 1995. Hoy en día, es un lenguaje fundamental en el desarrollo de aplicaciones modernas, con un ecosistema vibrante y en constante crecimiento. Su versatilidad, combinada con su amplia adopción, asegura que seguirá siendo relevante en los años venideros.
 
-## Referencias
+## :wavy_dash: 14. Referencias
 
 
 - [MDN Web Docs](https://developer.mozilla.org/)
