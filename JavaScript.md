@@ -154,8 +154,9 @@ JavaScript ha recorrido un largo camino desde sus humildes comienzos en 1995. Ho
 
 ## Referencias
 
-* MDN Web Docs
-* ECMAScript Spec
-* Node.js Documentation
-* JavaScript: The Good Parts by Douglas Crockford
+
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [ECMAScript Spec](https://tc39.es/ecma262/)
+- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [JavaScript: The Good Parts by Douglas Crockford](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 
