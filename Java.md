@@ -58,12 +58,12 @@ Asimismo, posee un tipado estático, y fuerte.
 
 Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**, siendo los más populares:
 
-- `Spring Boot`
-- `Hibernate`
-- `Struts`
-- `Java Server Faces`
-- `Quarkus`
-- `Play Framework`
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Hibernate](https://hibernate.org/)
+- [Struts](https://struts.apache.org/)
+- [Java Server Faces (JSF)](https://javaserverfaces.github.io/)
+- [Quarkus](https://quarkus.io/)
+- [Play Framework](https://www.playframework.com/)
 
 ## :wavy_dash: 8. **WEBGRAFÍA**
 [^1]: https://www.tiobe.com/tiobe-index/     
