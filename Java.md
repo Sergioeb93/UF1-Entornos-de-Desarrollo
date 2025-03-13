@@ -7,7 +7,8 @@
 5. [Otras curiosidades](#wavy_dash-5-otras-curiosidades)
 6. [IDE'S](#wavy_dash-6-ides)
 7. [Frameworks](#wavy_dash-7-frameworks)
-8. [Webgrafía](#wavy_dash-8-webgraf%C3%ADa)
+8. [Licencias de Frameworks](#wavy_dash-8-licencias-de-frameworks)
+9. [Webgrafía](#wavy_dash-9-webgraf%C3%ADa)
 
  
 ## :wavy_dash: 1. INTRODUCCIÓN
@@ -35,6 +36,12 @@ Tras un par de décadas doradas, **Java** continúa postulándose como uno de lo
 ## :wavy_dash: 4. **CLASIFICACIÓN**
 Java se consolida como un lenguaje de alto nivel y propósito general, que se encuentra enmarcado en el paradigma de la Programación Orientada a Objetos. Se trata de un lenguaje multiplataforma de ejecución híbrida, requiriendo de un proceso de compilación previo _(valiéndose del compilador **javac**)_ que genera como resultado un fichero de _bytecode_ que habrá de ser interpretado posteriormente por una máquina virtual _(la **Java Virtual Machine** o **JVM**)_ y traducido al SO pertinente.
 Asimismo, posee un tipado estático, y fuerte.
+
+1. **Portabilidad**: Java sigue siendo uno de los pocos lenguajes que puede ejecutarse en casi cualquier sistema operativo gracias a la JVM.
+2. **Seguridad**: Java es conocido por ser seguro, con características como el sandboxing, que ayuda a proteger las aplicaciones contra virus y hackers.
+3. **Escalabilidad**: Empresas grandes lo usan porque permite crear sistemas que pueden manejar mucho tráfico y gran cantidad de datos.
+4. **Multihilo**: Java permite trabajar con multihilos (hacer muchas cosas al mismo tiempo), lo cual es esencial en aplicaciones de alto rendimiento.
+5. **Comunidad gigante**: Al ser un lenguaje tan popular, siempre encontrarás soporte y recursos para aprender o resolver problemas.
 
 
 ## :wavy_dash: 5. **OTRAS CURIOSIDADES**
@@ -86,21 +93,32 @@ Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**
 - **[Play Framework](https://www.playframework.com/)**  
   Framework web y de microservicios altamente escalable, con enfoque en la productividad y la construcción de aplicaciones reactivas y modernas.
 
-## :wavy_dash: 8. **Empresa Detrás y Licencias**
+## :wavy_dash: 8. **Licencias de Frameworks**
 
-El responsable de Java hoy en día es Oracle Corporation. Aunque Java comenzó con Sun Microsystems, Oracle compró la compañía en 2010, y desde entonces son los que mantienen y desarrollan el lenguaje.
+- **[Spring Boot](https://spring.io/projects/spring-boot)**  
+  - **Licencia:** Apache License 2.0  
 
-En cuanto a las licencias, Java se distribuye bajo una licencia GPL, lo que significa que es gratis para usar y modificar. Sin embargo, si eres una empresa que necesita soporte, hay una versión comercial de Java llamada Oracle JDK, que tiene un costo.
+- **[Hibernate](https://hibernate.org/)**  
+  - **Licencia:** Apache License 2.0  
 
-## :wavy_dash: 9. **Características Destacables**
+- **[Struts](https://struts.apache.org/)**  
+  - **Licencia:** Apache License 2.0  
 
-1. **Portabilidad**: Java sigue siendo uno de los pocos lenguajes que puede ejecutarse en casi cualquier sistema operativo gracias a la JVM.
-2. **Seguridad**: Java es conocido por ser seguro, con características como el sandboxing, que ayuda a proteger las aplicaciones contra virus y hackers.
-3. **Escalabilidad**: Empresas grandes lo usan porque permite crear sistemas que pueden manejar mucho tráfico y gran cantidad de datos.
-4. **Multihilo**: Java permite trabajar con multihilos (hacer muchas cosas al mismo tiempo), lo cual es esencial en aplicaciones de alto rendimiento.
-5. **Comunidad gigante**: Al ser un lenguaje tan popular, siempre encontrarás soporte y recursos para aprender o resolver problemas.
+- **[Java Server Faces (JSF)](https://javaserverfaces.github.io/)**  
+  - **Licencia:** Eclipse Public License 2.0  
 
-## :wavy_dash: 10. **WEBGRAFÍA**
+- **[Quarkus](https://quarkus.io/)**  
+  - **Licencia:** Apache License 2.0  
+
+- **[Play Framework](https://www.playframework.com/)**  
+  - **Licencia:** Apache License 2.0  
+
+**Notas sobre las licencias:**
+
+- **Apache License 2.0**: Licencia permisiva que permite el uso, modificación y distribución del software, siempre que se incluya una copia de la licencia y una declaración de copyright.  
+- **Eclipse Public License 2.0**: Similar en términos de permisividad, pero con diferencias en la gestión de patentes y responsabilidades.  
+
+## :wavy_dash: 9. **WEBGRAFÍA**
 
 [^1]: https://www.tiobe.com/tiobe-index/     
 https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-java-programming-language     
