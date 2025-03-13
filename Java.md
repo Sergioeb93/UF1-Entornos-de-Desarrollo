@@ -46,24 +46,43 @@ Asimismo, posee un tipado estático, y fuerte.
 
 ## :wavy_dash: 6. **IDE’s**
 
-- `Eclipse`
-- `Apache Netbeans`
-- `IntelliJ IDEA`
-- `Visual Studio Code`
-- `BlueJ`
+- **[Eclipse](https://www.eclipse.org/)**  
+  Uno de los IDE más populares para Java, extensible mediante plugins y con soporte para múltiples lenguajes de programación.
 
+- **[Apache NetBeans](https://netbeans.apache.org/)**  
+  IDE gratuito y de código abierto, ideal para desarrollo en Java, con integración nativa para tecnologías como Maven y Git.
+
+- **[IntelliJ IDEA](https://www.jetbrains.com/idea/)**  
+  Conocido por su inteligencia artificial avanzada y productividad, es uno de los IDE más potentes para Java y otros lenguajes.
+
+- **[Visual Studio Code](https://code.visualstudio.com/)**  
+  Editor ligero y altamente personalizable, con soporte para Java mediante extensiones y ampliamente utilizado para desarrollo web.
+
+- **[BlueJ](https://www.bluej.org/)**  
+  Diseñado específicamente para principiantes en Java, con una interfaz simple y enfocado en la enseñanza de programación orientada a objetos.
 ![image](https://github.com/user-attachments/assets/03ce1deb-8052-403e-8df5-4a4d3ff3404f)
 
 ## :wavy_dash: 7. **FRAMEWORKS**
 
 Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**, siendo los más populares:
 
-- [Spring Boot](https://spring.io/projects/spring-boot)
-- [Hibernate](https://hibernate.org/)
-- [Struts](https://struts.apache.org/)
-- [Java Server Faces (JSF)](https://javaserverfaces.github.io/)
-- [Quarkus](https://quarkus.io/)
-- [Play Framework](https://www.playframework.com/)
+- **[Spring Boot](https://spring.io/projects/spring-boot)**  
+  Framework líder para crear aplicaciones Java empresariales de manera rápida y eficiente, con enfoque en la configuración automática y la productividad.
+
+- **[Hibernate](https://hibernate.org/)**  
+  Herramienta de mapeo objeto-relacional (ORM) que simplifica la interacción con bases de datos, permitiendo trabajar con objetos en lugar de consultas SQL directas.
+
+- **[Struts](https://struts.apache.org/)**  
+  Framework de desarrollo web basado en el patrón MVC (Modelo-Vista-Controlador), ideal para aplicaciones web robustas y escalables.
+
+- **[Java Server Faces (JSF)](https://javaserverfaces.github.io/)**  
+  Framework de interfaz de usuario para aplicaciones web basadas en Java, con componentes reutilizables y soporte para aplicaciones empresariales.
+
+- **[Quarkus](https://quarkus.io/)**  
+  Framework moderno diseñado para aplicaciones nativas en la nube, optimizado para contenedores y entornos serverless, con tiempos de arranque ultra rápidos.
+
+- **[Play Framework](https://www.playframework.com/)**  
+  Framework web y de microservicios altamente escalable, con enfoque en la productividad y la construcción de aplicaciones reactivas y modernas.
 
 ## :wavy_dash: 8. **WEBGRAFÍA**
 [^1]: https://www.tiobe.com/tiobe-index/     
