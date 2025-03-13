@@ -1,4 +1,4 @@
-# JavaScript: Historia, Evolución y Análisis Profundo
+# JavaScript: Historia, Evolución y Análisis
 
 **Información del Documento**  
 - **Autor:** [Jose Manuel Exposito]  
