@@ -41,8 +41,7 @@ Python es un lenguaje de alto nivel, multiplataforma, de licencia _Open Source_ 
 
 
 ## :wavy_dash: 5. **OTRAS CURIOSIDADES** [^19] [^20]
-- El nombre del lenguaje está inspirando en el programa de la _BBC_ **“Monty Python´s Flying Circus”**, del que Guido Van Rossum se consideraba un gran fan. [^]
-
+- El nombre del lenguaje está inspirando en el programa de la _BBC_ **“Monty Python´s Flying Circus”**, del que Guido Van Rossum se consideraba un gran fan.
 - **Python** fue publicado Existe una falsa tendencia a considerar **Python** como un lenguaje relativamente Fue publicado 4 años antes que **Java**, aunque 
 - En una encuesta realizada en el año 2015, superó en popularidad al Francés: la mayoría de participantes prefería aprender **Python** como segundo _"idioma"_ antes que la lengua romance. 
 - Cuando el intérprete de **Python** recibe la instrucción `import antigravity`, se redirige al usuario a una página web en la que se reproduce un [pequeño fragmento de cómic sobre el lenguaje](https://xkcd.com/353/)[^21], a modo de _easter egg_.
