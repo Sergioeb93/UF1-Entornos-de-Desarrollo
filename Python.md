@@ -43,7 +43,7 @@ Python es un lenguaje de alto nivel, multiplataforma, de licencia _Open Source_ 
 - El nombre del lenguaje está inspirando en el programa de la _BBC_ **“Monty Python´s Flying Circus”**, del que Guido Van Rossum se consideraba un gran fan. [^]
 
 - **Python** fue publicado Existe una falsa tendencia a considerar **Python** como un lenguaje relativamente Fue publicado 4 años antes que **Java**, aunque 
-- >REVISAR: En una encuesta realizada en 2015, superó en popularidad al Francés como lenguaje de preferencia para el aprendizaje.
+- En una encuesta realizada en 2015, superó en popularidad al Francés como lenguaje de preferencia para el aprendizaje.
 
 - Cuando el intérprete de **Python** recibe la instrucción `import antigravity`, se redirige al usuario a una página web en la que se reproduce un [pequeño fragmento de cómic sobre el lenguaje](https://xkcd.com/353/), a modo de _easter egg_.
 - De igual, forma, puede leerse un poema escrito por _Tim Peters_, un gran contribuidor de la comunidad de **Python**, al realizar un `import this`.
@@ -62,8 +62,14 @@ Python es un lenguaje de alto nivel, multiplataforma, de licencia _Open Source_ 
 ## :wavy_dash: 7. **FRAMEWORKS**
 
 Python dispone de una amplia multitud de Frameworks, siendo entre ellos, los más usados (en función del número de estrellas y forks disponibles en Github):
-- `Django`
-- `Flask`
+- `Django`  Su desarrollo cuenta con el apoyo de una fundación independiente, la _Django Softwere Foundation_, una organización sin animo de lucro[https://www.djangoproject.com/foundation/]. Distribuido bajo la licencia BSD de 3 clausulas (https://github.com/django/django/blob/efe3ca09e029c63e25f6e19843cb0c68cc7fa816/LICENSE), licencia _open source_ que otorga permisos para modificar y redistribuir *Django*[https://github.com/django/django/blob/main/LICENSE]. Sus principales características se diseñaron para simplificar el desarrololo web y mejorar la productividad, entre las que cabe destacar[https://profile.es/blog/django-caracteristicas-y-funcionalidades/]:
+    * Desarrollo rápido: construye aplicaciones web rápidamente y de forma eficiente. La reutilización del código y la integración de funcionalidades disminiye enormemente el tiempo necesario para pasar de la idea a la implementación.
+    * MTV _(Modelo-Template-Vista)_: otros frameworks utilizan el patrón MVC (Modelo-Vista-Controlador), pero *Django* separa los datos, la lógica de la presentación y la interfaz de usuario, proporcionando un formato organizado y mantenible.
+    * Sistema de Administración integrado: escribiendo unas pocas líneas de código, se genera un panel de administración completo con el que puedes gestionar el contenido y datos de tu aplicación, esto es igual a un ahorro de tiempo y esfuerzo en desarrollo de interfaces personalizadas.
+    * ORM _(Object-Relational Mapping)_: sistema que ayuda a interacturar con las bases de datos utlizando objetos Pyhton en lugar de consultas SQL, con lo que el código queda mas limpio y legible.
+    * Seguridad. protección como inyecciones SQL,Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF) y clickjacking, gestión segura de contraseñas y autenticación de usuarios.
+    * Escalable y flexible. Su arquitectura modular lo hace adecuado para aplicaciones pequeñas o proyectos grandes. Permite agregar o eliminar componentes cuando sea necesario. 
+- `Flask` Creado por Pocoo, un grupo internacional de entusiastas de *Python*, en 2004 [https://es.wikipedia.org/wiki/Flask#:~:text=Flask%20fue%20creado%20por%20Armin,convertirse%20en%20una%20aplicaci%C3%B3n%20seria.]. BSD-3 Clause License [https://flask.palletsprojects.com/en/stable/license/]. Microframework el cual no requiere librerías externas para llevar a cabo sus funciones. Diseñado para aplicaciones web WSGI. Fácil y rápido de empezar a usar y con capacidad de escalar a aplicaciones más complejas[https://flask.palletsprojects.com/en/stable/]. 
 - `FastAPI`
 - `Tornado`
 - `Sanic`
