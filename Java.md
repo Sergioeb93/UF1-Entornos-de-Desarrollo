@@ -69,6 +69,7 @@ Asimismo, posee un tipado estático, y fuerte.
 
 - **[BlueJ](https://www.bluej.org/)**  
   Diseñado específicamente para principiantes en Java, con una interfaz simple y enfocado en la enseñanza de programación orientada a objetos.
+  
 ![image](https://github.com/user-attachments/assets/03ce1deb-8052-403e-8df5-4a4d3ff3404f)
 
 ## :wavy_dash: 7. **FRAMEWORKS**
